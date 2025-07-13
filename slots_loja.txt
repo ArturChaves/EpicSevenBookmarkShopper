@@ -1,0 +1,24 @@
+SLOT_1:
+  bbox: (878, 161, 1007, 287)
+  botao_compra: (1710, 251)
+
+SLOT_2:
+  bbox: (878, 362, 1007, 485)
+  botao_compra: (1721, 457)
+
+SLOT_3:
+  bbox: (879, 561, 1008, 687)
+  botao_compra: (1731, 653)
+
+SLOT_4:
+  bbox: (875, 463, 1007, 587)
+  botao_compra: (1710, 557)
+
+SLOT_5:
+  bbox: (878, 659, 1008, 792)
+  botao_compra: (1690, 755)
+
+SLOT_6:
+  bbox: (876, 858, 1007, 992)
+  botao_compra: (1713, 954)
+
